@@ -1,7 +1,7 @@
-# 2 facts to replicate from the Backblaze Hard Drive Stats for 2017 report:
-- 81.76 — The number of hard drives that were installed each day in 2017. 
+# Stats from the Backblaze Hard Drive Stats for 2017 report:
+- 81.76Â â€” The number of hard drives that were installed each day in 2017. 
 	This includes new drives, migrations, and failure replacements.
-- 4.13 — The average number of hard drives that have failed each day in 2017.
+- 4.13Â â€” The average number of hard drives that have failed each day in 2017.
 
 # Results:
 - The number of hard drives that were installed each day in 2017: 53.055
